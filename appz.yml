@@ -1,5 +1,5 @@
 app:
-  name: Tomcat Loadgen
+  name: Tomcat8 HelloWorld
   code: TCLG
   notify: appzdev@cloudbourne.co
 
